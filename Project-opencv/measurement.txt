@@ -1,0 +1,8 @@
+resolution=752,480
+container=2.45,3.00,4.95
+margin_xyz=1.05,1.75,0.00
+margin_opt=0.031
+cam_location=1.35,2.43
+voxel_size=0.01
+tsdf_thresh=0.05
+weight_thresh=0.01
