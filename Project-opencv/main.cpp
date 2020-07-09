@@ -105,6 +105,7 @@ void stereoRectify1(InputArray _cameraMatrix1, InputArray _distCoeffs1,
 
 int main()
 {
+	//test
 	const int imageWidth = 752;                             //摄像头的分辨率
 	const int imageHeight = 480;
 	Rect validROIL;//图像校正之后，会对图像进行裁剪，这里的validROI就是指裁剪之后的区域  
